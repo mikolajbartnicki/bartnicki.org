@@ -3,4 +3,4 @@ Allow: /
 Disallow: .gitignore
 Disallow: CNAME
 Disallow: README.md
-Sitemap: https://bartnicki.org/sitemap.txt
+Sitemap: https://bartnicki.org/sitemap.xml
